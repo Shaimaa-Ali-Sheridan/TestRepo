@@ -15,7 +15,7 @@ public class TestProj {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is just a test-- ");
+        System.out.println("This is just a test-- adding extra message to test the branch ");
     }
     
 }
