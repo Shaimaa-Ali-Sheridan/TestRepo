@@ -15,7 +15,7 @@ public class TestProj {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Adding the message back from remote repo - Now I'm going to test fetch ??????????!!!!!!!");
+        System.out.println("Adding the message back from remote repo - Now I'm going to test fetch ??????????!!!!!!!##########");
     }
     
 }
