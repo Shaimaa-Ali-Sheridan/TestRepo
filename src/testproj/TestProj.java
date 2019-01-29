@@ -15,9 +15,7 @@ public class TestProj {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("I'm goint to change the original msg too-- "
-                + "adding extra message to test the branch "
-                + "just keep adding extra messages");
+        
     }
     
 }
